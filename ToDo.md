@@ -14,5 +14,5 @@ ToDo管理をするためのProjectsを作成する
 * 毎日Projectsを確認、更新する
 
 ### 参考
->【初学者向け】GitHub Projectsでのタスク管理のススメ
+>【初学者向け】GitHub Projectsでのタスク管理のススメ  
 > https://qiita.com/haganenoubik/items/55700919e2e5b127e166  
